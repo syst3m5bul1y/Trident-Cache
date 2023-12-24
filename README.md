@@ -46,7 +46,8 @@ To provide centralized and secure file storage and sharing capabilities on the h
 
 #### Operating System & Software
 
-![[Trident Cache Schematic.drawio.png]]
+![image](https://github.com/syst3m5bul1y/Trident-Cache/assets/100330775/96e3ea1b-4177-4f3e-b74e-0e2ae68559c6)
+
 
 
 - **OpenMediaVault (OMV)**: Chosen for its ease of use, flexibility, and strong community support. It will manage file sharing, user accounts, security settings, and other NAS services.
@@ -62,7 +63,8 @@ To provide centralized and secure file storage and sharing capabilities on the h
 Full set of services: [[Project Trident Cache - LoS]]
 #### Network Integration
 
-![[Pasted image 20231128195042.png]]
+![image](https://github.com/syst3m5bul1y/Trident-Cache/assets/100330775/6419187c-b12a-4003-8688-bf76898a7fd9)
+
 
 - **Host Network**: The NAS is integrated into the host network with the IP range 192.168.1.0/24.
 
